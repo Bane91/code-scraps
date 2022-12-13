@@ -1,2 +1,2 @@
 # code-scraps
-Personal repository with various scripts. 
+Personal repository with various scripts.
